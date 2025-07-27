@@ -1,0 +1,164 @@
+body {
+    background-image: url(data:image/webp;base64,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);
+    background-repeat: repeat;
+    font-family: Nehucha, cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+.middle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+section {
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+section img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.sidenav a {
+    position: absolute;
+    left: -150px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.sidenav a:hover {
+    left: 0;
+}
+.basics {
+    top: 20px;
+    background-color: lightblue;
+}
+.styles {
+    top: 80px;
+    background-color: blue;
+}
+.other {
+    top: 140px;
+    background-color: darkblue;
+}
+.Registration {
+    font-size: 20px;
+    background-color: gold;
+    border-radius: 3px;
+    padding: 20px;
+    font-family: nehucha, cursive;
+}
+.Registration:hover {
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+/* Fancy button styles */
+button.Registration {
+    background: linear-gradient(90deg, #3a8dde 0%, #1e3c72 100%);
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 12px 32px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    box-shadow: 0 4px 16px rgba(58, 141, 222, 0.15);
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    outline: none;
+}
+
+button.Registration:hover, button.Registration:focus {
+    background: linear-gradient(90deg, #1e3c72 0%, #3a8dde 100%);
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: 0 8px 24px rgba(30, 60, 114, 0.18);
+}
+
+/* Fancy input box styles */
+.captcha-box input[type="text"] {
+    padding: 10px 16px;
+    border: 2px solid #3a8dde;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(58, 141, 222, 0.15);
+}
+
+.captcha-box input[type="text"]:focus {
+    border-color: #1e3c72;
+    box-shadow: 0 4px 16px rgba(30, 60, 114, 0.18);
+}
+
+/* Fancy table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 24px 0;
+    font-size: 1.05rem;
+    background: #fff;
+    box-shadow: 0 2px 12px rgba(58, 141, 222, 0.08);
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 14px 18px;
+    text-align: left;
+}
+
+th {
+    background: linear-gradient(90deg, #3a8dde 0%, #1e3c72 100%);
+    color: #fff;
+    font-weight: bold;
+    border-bottom: 2px solid #1e3c72;
+}
+
+tr:nth-child(even) td {
+    background: #e3f0ff;
+}
+
+tr:nth-child(odd) td {
+    background: #f6fbff;
+}
+
+tr:hover td {
+    background: #cbe2ff;
+    transition: background 0.2s;
+}
+ /* Hide buttons initially */
+        #offerButtons {
+            display: none;
+        }
+        .captcha-box {
+            margin: 20px 0;
+        }
+        .Home {
+    top: 20px;
+    background-color: darkcyan;
+}
+ .password-container {
+      position: relative;
+    }
+
+    .toggle-password {
+      cursor: pointer;
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      user-select: none;
+    }
