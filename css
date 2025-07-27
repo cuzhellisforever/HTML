@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Styles</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <div class="middle">
+        <h1>CSS</h1>
+        <p>everything in this screen is there for a reason, there are default positions of things</p>
+        <p>CSS is a way to change the position to look stylish</p>
+    </div>
+</body>
